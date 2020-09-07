@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071552502369",
+    "firebase_url": "https://aditya-54293.firebaseio.com",
+    "project_id": "aditya-54293",
+    "storage_bucket": "aditya-54293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071552502369:android:74770e0d2518bc1f5fe820",
+        "android_client_info": {
+          "package_name": "com.adityabugalia.bellproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071552502369-nmouqh614ghn92c4l0kld7vpjsrg91f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA_0fM70UZsTj3tds59VPxTD1PFdui69k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071552502369-nmouqh614ghn92c4l0kld7vpjsrg91f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

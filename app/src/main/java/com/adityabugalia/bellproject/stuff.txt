@@ -1,0 +1,22 @@
+//
+Design login screen
+create classes for login
+perform login
+get user email
+
+==> new screen
+
+
+//create landing page layout
+//create recyclerview item structure
+//create code structure mvvm (common for details and list)
+//get data from youtubeDataApi
+// display data
+//
+
+
+    companion object {
+        fun newInstance() = DisplayFragment()
+    }
+
+            viewModel = ViewModelProviders.of(this).get(DisplayViewModel::class.java)
